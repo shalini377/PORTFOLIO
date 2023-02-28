@@ -300,7 +300,7 @@ footer .rights{
 }
 .projects #card1{
     background-image: url("/img/PORTAL.jpg");
-    background-color: #cccccc;
+    background-color:var(--primary-bg-color);
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
@@ -319,7 +319,7 @@ footer .rights{
 }
 .projects #card3{
     background-image: url("/img/v.jpg");
-    background-color: #cccccc;
+    background-color:var(--primary-bg-color);
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
