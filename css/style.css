@@ -276,7 +276,7 @@ footer .rights{
     justify-content: center;
     background: var(--second-bg-color);
     align-items: center;
-    max-width: 1500px;
+    max-width: 1700px;
     flex-wrap:wrap-reverse;
     z-index: 1;
     overflow: hidden;
