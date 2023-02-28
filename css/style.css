@@ -5,7 +5,8 @@
    --second-bg-color:#212F3D;
    --txt-white:#fff;
    --primary-color:#347cab;
-   --box-shadow: 10px 8px #2a658c; 
+   --box-shadow: 10px 8px #2a658c;
+   overflow:hidden;
 }
 
 *{
